@@ -4,7 +4,7 @@
 
 CSC4050-121090532-CaijunWang
 
-#### Vanila version of linear combination
+#### Vanilla version of linear combination
 `recon_mix.wav`, `recon_mix_1.wav` and `recon_mix_2.wav` are some result of the d-vecter linear combination.
 
 #### Re-construct the VALL-E with FACodec
