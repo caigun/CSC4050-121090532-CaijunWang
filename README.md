@@ -1,3 +1,5 @@
 # Voiceprint Mixing TTS
 
-This is the course project of Caijun Wang
+Voiceprint Integration and Mixing for Multispeaker Text-to-Speech Synthesis
+
+CSC4050-121090532-CaijunWang
